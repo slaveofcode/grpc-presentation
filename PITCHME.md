@@ -31,21 +31,34 @@
 @snapend
 
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+---
+@title[Who using this?]
 
 @snap[west span-55]
-## Customize the Layout
+## Who using this?
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/Gojek_logo_2019.svg)
+![IMAGE](assets/img/tokopedia-logo.png)
 @snapend
 
 @snap[south span-100]
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
+---
+### gRPC vs JSON
+---
+### Communication Types 
+---
+### How gRPC Works?
+---
+### Generate Protobuf (Golang)
+---
+### Using the Protobuf (Golang)
+---
+### Using Protobuf (Node)
 ---
 @title[Add A Little Imagination]
 
