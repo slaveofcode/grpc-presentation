@@ -87,8 +87,10 @@ service AuthService {
 ```
 @snapend
 ---
+@snap[east span-100]
 ### gRPC Network Transaction
-@ul[list-spaced-bullets text-07]
+@snapend
+@ul[list-spaced-bullets text-11]
 - Unary
 - Server Streaming
 - Client Streaming
