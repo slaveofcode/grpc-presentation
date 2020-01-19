@@ -76,7 +76,7 @@ service AuthService {
 @snapend
 
 @snap[east span-50]
-```json
+```javascript
 //authorize.json
 {
     authorize: {
