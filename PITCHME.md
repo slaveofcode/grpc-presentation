@@ -23,7 +23,7 @@
 @snap[west span-55]
 @ul[list-spaced-bullets text-07]
 - Low latency
-- Scallable
+- Scalable
 - Simple communication contract
 - Language independent
 - Self descriptive message
