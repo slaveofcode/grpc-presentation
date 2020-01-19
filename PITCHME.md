@@ -32,12 +32,12 @@
 
 
 ---
-@snap[west span-55]
+@snap[west span-55 text-center]
 ## Who using this?
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/Gojek_logo_2019.svg)
+![IMAGE](assets/img/Gojek_logo_2019.png)
 ![IMAGE](assets/img/tokopedia-logo-resized.png)
 @snapend
 ---
