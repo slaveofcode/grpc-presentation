@@ -6,7 +6,7 @@
 #### What is gRPC actually?
 @snapend
 
-@snap[east span-50]
+@snap[east span-55]
 @ul[list-spaced-bullets text-09]
 - Modern, open source remote procedure call (RPC)
 - Enables **Client** and **Server** app to communicate transparently
