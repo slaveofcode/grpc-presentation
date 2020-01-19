@@ -21,7 +21,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-09]
+@ul[list-spaced-bullets text-07]
 - Low latency
 - Scallable
 - Simple communication contract
