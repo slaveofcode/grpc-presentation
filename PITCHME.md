@@ -15,6 +15,21 @@
 @ulend
 @snapend
 
+---
+@snap[north-west span-50 text-center]
+#### The Benefit for using gRPC
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- You will be amazed
+- What you can achieve
+- With a **little imagination**
+- And GitPitch Markdown
+@ulend
+@snapend
+
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
