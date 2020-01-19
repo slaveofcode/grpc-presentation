@@ -6,12 +6,12 @@
 ### What is gRPC actually?
 @snapend
 
-@snap[east span-100]
+@snap[east span-50]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- Modern, open source remote procedure call (RPC)
+- Enables **Client** and **Server** app to communicate transparently
+- Transport via HTTP2 protocol (2 way communication)
+- Easier to build connected system
 @ulend
 @snapend
 
