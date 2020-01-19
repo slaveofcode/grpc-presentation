@@ -11,7 +11,7 @@
 - Modern, open source remote procedure call (RPC)
 - Enables **Client** and **Server** app to communicate transparently
 - Transport via HTTP2 protocol (2 way communication)
-- Easier to build connected system
+- Easier to build connected system via consistent .proto
 @ulend
 @snapend
 
