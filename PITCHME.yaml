@@ -8,7 +8,7 @@
 theme            : template
 
 theme-background : [ "#313640" ]
-theme-headline   : [ "Didact Gothic", "#FFD966", "none", "#FFFFFF", "100", "120", "15" ]
+theme-headline   : [ "Didact Gothic", "#EA9999", "none", "#FFFFFF", "100", "120", "15" ]
 theme-byline     : [ "Didact Gothic", "#FFFFFF", "none", "#FFD966", "100", "110", "15" ]
 theme-text       : [ "Didact Gothic", "#FFFFFF", "none", "#EA9999", "100", "100", "15" ]
 theme-links      : [ "#FFD966", "#FFD966" ]
