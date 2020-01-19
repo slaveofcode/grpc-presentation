@@ -139,11 +139,11 @@ service AuthService {
 @snap[north span-100]
 ### What **Hurts** on **gRPC**
 @snapend
-@ul[list-spaced-bullets text-07]
+@ul[list-spaced-bullets text-09]
 - API debugging feels hard and different at the 1st time
-- Almost give up finding a nice GUI editor for debug
+- Almost give up finding a nice GUI editor for debug (hail **grpcui**!)
 - Taste spicy when you're dealing with static type (use Typescript!)
-- Change the `.proto`?, means rebuild the protobuf!
+- Change the **.proto** file, means rebuild the protobuf!
 @ulend
 ---?image=assets/img/htmlcode.jpg&opacity=60&position=left&size=45% 100%
 
