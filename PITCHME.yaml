@@ -21,7 +21,7 @@ layout           : center
 # Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : tomorrow
+highlight : dracula
 
 #
 # Theme-Override Setting
