@@ -42,7 +42,12 @@
 ![IMAGE](assets/img/xendit.png)
 @snapend
 ---
+## So...?
 ### gRPC vs JSON
+---
+@snap[north span-100 text-center]
+#### **gRPC** vs **JSON**
+@snapend
 ---
 ### Communication Types 
 ---
