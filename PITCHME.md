@@ -143,7 +143,7 @@ service AuthService {
 @snapend
 
 @snap[east span 50]
-@ul[list-spaced-bullets text-11]
+@ul[list-spaced-bullets text-07]
 - grpc.io/docs
 - developers.google.com/protocol-buffers
 - google.golang.org/grpc
