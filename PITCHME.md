@@ -2,7 +2,7 @@
 
 ---?image=assets/img/curious-cat.jpg&opacity=60&position=left&size=50% 100%
 
-@snap[north-east span-100 text-center]
+@snap[north-east span-55]
 ### What is gRPC actually?
 @snapend
 
