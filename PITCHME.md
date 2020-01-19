@@ -70,7 +70,7 @@ REFERENCES "forum" ("id");
 @snapend
 
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+---?image=assets/img/curious-cat.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
 ## Now It's **Your** Turn
