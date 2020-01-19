@@ -51,7 +51,6 @@
 @snap[west span-50]
 ```protobuf
 //authorize.proto
-
 package authorize;
 
 message Client {
