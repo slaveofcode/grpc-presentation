@@ -142,7 +142,7 @@ service AuthService {
 ## Thank You!
 @snapend
 
-@snap[east span 50]
+@snap[east span-50]
 @ul[list-spaced-bullets text-07]
 - grpc.io/docs
 - developers.google.com/protocol-buffers
