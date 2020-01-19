@@ -108,7 +108,14 @@ service AuthService {
 @img[shadow](assets/img/grpc_concept_diagram.png)
 @snapend
 ---
-### Generate Protobuf (Golang)
+### Generate the **Protobuf**
+---
+@snap[north span-100]
+### Generate the **Protobuf**
+@snapend
+```shell
+> protoc --go_out=plugins=grpc:/out/folder authorize.proto 
+```
 ---
 ### Using the Protobuf (Golang)
 ---
