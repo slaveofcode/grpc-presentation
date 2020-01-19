@@ -139,7 +139,7 @@ service AuthService {
 @snap[north span-100]
 ### What **Hurts** on **gRPC**
 @snapend
-@ul[list-spaced-bullets text-11]
+@ul[list-spaced-bullets text-07]
 - API debugging feels hard and different at the 1st time
 - Almost give up finding a nice GUI editor for debug
 - Taste spicy when you're dealing with static type (use Typescript!)
