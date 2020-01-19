@@ -1,10 +1,10 @@
-# Let's Get **Started**
+# a little deep dive to **gRPC**
 
 ---
 
-### Add Some Slide Candy
+### What is gRPC actually?
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/grpc-logo.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
