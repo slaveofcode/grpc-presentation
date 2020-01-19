@@ -3,10 +3,10 @@
 ---?image=assets/img/curious-cat.jpg&opacity=60&position=left&size=50% 100%
 
 @snap[north-east span-55 text-center]
-### What is gRPC actually?
+#### What is gRPC actually?
 @snapend
 
-@snap[east span-100]
+@snap[east span-50]
 @ul[list-spaced-bullets text-09]
 - Modern, open source remote procedure call (RPC)
 - Enables **Client** and **Server** app to communicate transparently
