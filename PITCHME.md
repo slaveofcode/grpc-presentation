@@ -15,14 +15,14 @@
 @ulend
 @snapend
 
----
+---?image=assets/img/thinking-kong.jpg&opacity=60&position=right&size=50% 100%
 @snap[north-west span-50 text-center]
 #### The Benefit for using gRPC
 @snapend
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
+- Simple communication contract
 - What you can achieve
 - With a **little imagination**
 - And GitPitch Markdown
