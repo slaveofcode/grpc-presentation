@@ -44,6 +44,14 @@
 ---
 ## So...?
 ### gRPC (.proto) vs JSON
+@snap[south span-100]
+... It's actually **protobuf** vs **JSON**
+@snapend
+---
+@snap[north span-100 text-center]
+#### **gRPC** (.proto) vs **JSON**
+@snapend
+
 @snap[west span-50]
 ```protobuf
 syntax = "proto3";
@@ -82,10 +90,6 @@ service AuthService {
     }
 }
 ```
-@snapend
----
-@snap[north span-100 text-center]
-#### **gRPC** (.proto) vs **JSON**
 @snapend
 ---
 ### Communication Types 
