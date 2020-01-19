@@ -87,14 +87,16 @@ service AuthService {
 ```
 @snapend
 ---
-### Communication Types
+### gRPC Network Transaction
 @ul[list-spaced-bullets text-07]
-- Unified
-- Server Stream
-- Client Stream
+- Unary
+- Server Streaming
+- Client Streaming
+- Bidirectional Streaming
 @ulend
 ---
 ### How gRPC Works?
+
 ---
 ### Generate Protobuf (Golang)
 ---
