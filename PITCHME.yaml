@@ -8,7 +8,7 @@
 theme            : template
 
 theme-background : [ "#313640" ]
-theme-headline   : [ "Monospace", "#FFD966", "none", "#FFFFFF", "100", "120", "15" ]
+theme-headline   : [ "Didact Gothic", "#FFD966", "none", "#FFFFFF", "100", "120", "15" ]
 theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FFD966", "100", "110", "15" ]
 theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
 theme-links      : [ "#EA9999", "#EA9999" ]
