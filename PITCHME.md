@@ -87,7 +87,12 @@ service AuthService {
 ```
 @snapend
 ---
-### Communication Types 
+### Communication Types
+@ul[list-spaced-bullets text-07]
+- Unified
+- Server Stream
+- Client Stream
+@ulend
 ---
 ### How gRPC Works?
 ---
