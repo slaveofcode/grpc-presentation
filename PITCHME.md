@@ -15,7 +15,7 @@
 @ulend
 @snapend
 
----?image=assets/img/thinking-kong.jpg&opacity=60&position=right&size=50% 100%
+---?image=assets/img/thinking-kong-resized.jpg&opacity=60&position=right&size=50% 100%
 @snap[north-west span-50 text-center]
 #### The Benefit for using gRPC
 @snapend
