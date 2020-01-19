@@ -50,6 +50,8 @@
 ---
 @snap[west span-50]
 ```protobuf
+//authorize.proto
+
 package authorize;
 
 message Client {
@@ -75,6 +77,7 @@ service AuthService {
 
 @snap[east span-50]
 ```json
+//authorize.json
 {
     authorize: {
         client: {
