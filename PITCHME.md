@@ -40,7 +40,7 @@
 
 @snap[north-east span-45]
 ![IMAGE](assets/img/Gojek_logo_2019.svg)
-![IMAGE](assets/img/tokopedia-logo.png)
+![IMAGE](assets/img/tokopedia-logo-resized.png)
 @snapend
 
 @snap[south span-100]
