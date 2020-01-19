@@ -1,10 +1,21 @@
 # a little deep dive to **gRPC**
 
----
+---?image=assets/img/curious-cat.jpg&opacity=60&position=left&size=50% 100%
 
+@snap[east span-50 text-center]
 ### What is gRPC actually?
+@snapend
 
 ![IMAGE](assets/img/grpc-logo.png)
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- You will be amazed
+- What you can achieve
+- With a **little imagination**
+- And GitPitch Markdown
+@ulend
+@snapend
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
