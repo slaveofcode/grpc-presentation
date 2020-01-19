@@ -38,8 +38,14 @@
 
 @snap[east span-45]
 ![IMAGE](assets/img/Gojek_logo_2019.png)
+@snapend
+@snap[east span-45]
 ![IMAGE](assets/img/tokopedia-logo-resized.png)
+@snapend
+@snap[east span-45]
 ![IMAGE](assets/img/xendit.png)
+@snapend
+@snap[east span-45]
 ![IMAGE](assets/img/grab.png)
 @snapend
 ---
