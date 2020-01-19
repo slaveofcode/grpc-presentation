@@ -16,8 +16,8 @@
 @snapend
 
 ---?image=assets/img/thinking-kong-resized.jpg&opacity=60&position=right&size=50% 100%
-@snap[north-west span-50 text-center]
-#### The Benefit for using gRPC
+@snap[north-west span-50]
+### The Benefits
 @snapend
 
 @snap[west span-55]
@@ -104,7 +104,7 @@ service AuthService {
 @snap[north span-100]
 ### How **gRPC** Works?
 @snapend
-@snap[midpoint span-100 fragment]
+@snap[south span-100 fragment]
 @img[shadow](assets/img/grpc_concept_diagram.png)
 @snapend
 ---
