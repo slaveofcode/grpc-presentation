@@ -43,10 +43,49 @@
 @snapend
 ---
 ## So...?
-### gRPC vs JSON
+### gRPC (.proto) vs JSON
+@snap[west span-50]
+```protobuf
+syntax = "proto3";
+package authorize;
+
+message Client {
+  string clientId = 1;
+  string clientSecret = 2;
+}
+
+message Authorization {
+  Client client = 1;
+  string accessToken = 2;
+}
+
+message Grant {
+  bool isAllowed = 1;
+  repeated string messages = 2;
+}
+
+service AuthService {
+  rpc AuthorizeBearer (Authorization) returns (Grant) {};
+}
+```
+@snapend
+
+@snap[east span-50]
+```json
+{
+    authorize: {
+        client: {
+            clientId: "xYzClientId",
+            clientSecret: "xYzClientSec"
+        },
+        accessToken: "tokenXYZ..."
+    }
+}
+```
+@snapend
 ---
 @snap[north span-100 text-center]
-#### **gRPC** vs **JSON**
+#### **gRPC** (.proto) vs **JSON**
 @snapend
 ---
 ### Communication Types 
