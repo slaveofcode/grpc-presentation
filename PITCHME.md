@@ -43,15 +43,11 @@
 @snapend
 ---
 ## So...?
-### gRPC vs JSON
+### **gRPC** vs **JSON**
 @snap[south span-100 text-05]
 ... It's actually **protobuf** vs **JSON**
 @snapend
 ---
-@snap[north span-100 text-center]
-#### **gRPC** (.proto) vs **JSON**
-@snapend
-
 @snap[west span-50]
 ```protobuf
 package authorize;
