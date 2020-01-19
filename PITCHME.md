@@ -144,8 +144,8 @@ service AuthService {
 
 @snap[east span-50]
 @ul[list-spaced-bullets text-07]
-- [grpc.io/docs](https://grpc.io/docs)
-- [developers.google.com/protocol-buffers](https://developers.google.com/protocol-buffers)
-- [google.golang.org/grpc](https://google.golang.org/grpc)
+- [grpc.io/docs @fa[external-link]](https://grpc.io/docs)
+- [developers.google.com/protocol-buffers @fa[external-link]](https://developers.google.com/protocol-buffers)
+- [google.golang.org/grpc @fa[external-link]](https://google.golang.org/grpc)
 @ulend
 @snapend
