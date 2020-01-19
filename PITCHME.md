@@ -36,7 +36,7 @@
 ## Who using this?
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](assets/img/Gojek_logo_2019.png)
 ![IMAGE](assets/img/tokopedia-logo-resized.png)
 @snapend
