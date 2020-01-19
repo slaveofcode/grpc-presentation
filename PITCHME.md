@@ -144,13 +144,8 @@ service AuthService {
 
 @snap[east span-50]
 @ul[list-spaced-bullets text-07]
-- grpc.io/docs
-- developers.google.com/protocol-buffers
-- google.golang.org/grpc
+- [grpc.io/docs](https://grpc.io/docs)
+- [developers.google.com/protocol-buffers](https://developers.google.com/protocol-buffers)
+- [google.golang.org/grpc](https://google.golang.org/grpc)
 @ulend
 @snapend
-
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
-
