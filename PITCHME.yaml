@@ -9,9 +9,9 @@ theme            : template
 
 theme-background : [ "#313640" ]
 theme-headline   : [ "Didact Gothic", "#FFD966", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FFD966", "100", "110", "15" ]
-theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
-theme-links      : [ "#EA9999", "#EA9999" ]
+theme-byline     : [ "Didact Gothic", "#FFFFFF", "none", "#FFD966", "100", "110", "15" ]
+theme-text       : [ "Didact Gothic", "#FFFFFF", "none", "#EA9999", "100", "100", "15" ]
+theme-links      : [ "#FFD966", "#FFD966" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
