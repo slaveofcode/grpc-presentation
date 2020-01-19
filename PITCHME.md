@@ -97,8 +97,14 @@ service AuthService {
 - Bidirectional Streaming
 @ulend
 ---
-### How gRPC Works?
-
+### How **gRPC** Works?
+---
+@snap[north span-100]
+### How **gRPC** Works?
+@snapend
+@snap[midpoint span-100 fragment]
+@img[shadow](assets/img/grpc_concept_diagram.png)
+@snapend
 ---
 ### Generate Protobuf (Golang)
 ---
