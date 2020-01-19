@@ -39,6 +39,8 @@
 @snap[east span-45]
 ![IMAGE](assets/img/Gojek_logo_2019.png)
 ![IMAGE](assets/img/tokopedia-logo-resized.png)
+![IMAGE](assets/img/xendit.png)
+![IMAGE](assets/img/grab.png)
 @snapend
 ---
 ### gRPC vs JSON
