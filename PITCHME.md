@@ -22,10 +22,11 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
+- Low latency
+- Scallable
 - Simple communication contract
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- Language independent
+- Self descriptive message
 @ulend
 @snapend
 
