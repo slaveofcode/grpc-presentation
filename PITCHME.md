@@ -114,7 +114,14 @@ service AuthService {
 ### Generate the **Protobuf**
 @snapend
 ```shell
+# Golang
 > protoc --go_out=plugins=grpc:/out/folder authorize.proto 
+
+# Node
+> protoc --plugin="protoc-gen-grpc=/node_modules/protoc-gen-grpc/bin/grpc_node_plugin" --js_out=import_style=commonjs,binary:/out --grpc_out=/out authorize.proto
+
+# Typescript
+> protoc --plugin="protoc-gen-ts=/node_modules/ts-protoc-gen/bin/protoc-gen-ts" --ts_out="service=grpc-node:/out" authorize.proto 
 ```
 ---
 ### Using the Protobuf (Golang)
