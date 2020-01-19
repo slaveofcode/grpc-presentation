@@ -78,13 +78,13 @@ service AuthService {
 ```javascript
 //authorize.json
 {
-    "authorize": {
-        "client": {
-            "clientId": "xYzClientId",
-            "clientSecret": "xYzClientSec"
-        },
-        "accessToken": "tokenXYZ..."
-    }
+  "authorize": {
+    "client": {
+      "clientId": "xYzClientId",
+      "clientSecret": "xYzClientSec"
+    },
+    "accessToken": "tokenXYZ..."
+  }
 }
 ```
 @snapend
