@@ -32,8 +32,6 @@
 
 
 ---
-@title[Who using this?]
-
 @snap[west span-55]
 ## Who using this?
 @snapend
@@ -42,11 +40,6 @@
 ![IMAGE](assets/img/Gojek_logo_2019.svg)
 ![IMAGE](assets/img/tokopedia-logo-resized.png)
 @snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
 ---
 ### gRPC vs JSON
 ---
