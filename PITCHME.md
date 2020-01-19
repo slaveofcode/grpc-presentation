@@ -87,7 +87,7 @@ service AuthService {
 ```
 @snapend
 ---
-@snap[east span-100]
+@snap[north span-100]
 ### gRPC Network Transaction
 @snapend
 @ul[list-spaced-bullets text-11]
